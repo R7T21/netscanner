@@ -1,5 +1,5 @@
 # netscanner
-This is local network scanner for get IP, MAC adress and vendor clients has connect your local network.
+This is local network scanner like netdiscover
 
 ## Installing
 Type this command in terminal:
@@ -9,8 +9,18 @@ cd netscanner && sudo chmod +x install.sh
 sudo ./install.sh
 netscanner
 ```
-## This is my first git project.
+features 
+=
+- IP
+- MAC address
+- vendor/company
 
+Contact
+=
+- Telegram: T.me/R7T21
+- Email: gituser7@yahoo.com
+
+## This is my first git project.
 
 # More details in the near future
 
