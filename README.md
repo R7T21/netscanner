@@ -1,7 +1,7 @@
 # netscanner
-local network scanner
+This is local network scanner for get IP, MAC adress, vendor client has connect your same network
 
-# Hey, this is my first git project.
+###### Hey, this is my first git project.
 
 ## Installing
 Type this command az superuser(root):
