@@ -27,7 +27,6 @@ def get_vendor(mac):
 	company = dict_result[u'result'][u'company']
 	return company
 
-
 def scan(ip):
 	arp_request = scapy.ARP(pdst=ip)
 	brodcast = scapy.Ether(dst="ff:ff:ff:ff:ff:ff")
