@@ -1,7 +1,7 @@
 # netscanner
 local network scanner
 
-#### Hey, this is my first project.
+# Hey, this is my first git project.
 
 ## Installing
 Type this command az superuser(root):
