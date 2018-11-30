@@ -1,5 +1,5 @@
 # netscanner
-This is local network scanner like netdiscover
+This is local network scanner like netdiscover.
 
 ## Installing
 Type this command in terminal:
