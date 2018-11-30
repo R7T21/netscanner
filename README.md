@@ -1,6 +1,5 @@
 # netscanner
 local network scanner
-
 Hey, this is my first project.
 
 ## Installing
