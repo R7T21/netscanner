@@ -1,5 +1,5 @@
 # netscanner
-This is local network scanner for get IP, MAC adress, vendor clients has connect your local network.
+This is local network scanner for get IP, MAC adress and vendor clients has connect your local network.
 
 ## Installing
 Type this command in terminal:
