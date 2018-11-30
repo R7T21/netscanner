@@ -7,6 +7,7 @@ Type this command in terminal:
 git clone https://github.com/R7T21/netscanner.git
 cd netscanner && sudo chmod +x install.sh
 sudo ./install.sh
+netscanner
 ```
 ## This is my first git project.
 
